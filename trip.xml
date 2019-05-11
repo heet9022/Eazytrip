@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trip>
+	<destination>
+		<name>greece</name>
+		<price>39999</price>
+	</destination>
+	
+	<destination>
+		<name>italy</name>
+		<price>36999</price>
+	</destination>
+	
+	<destination>
+		<name>japan</name>
+		<price>36999</price>
+	</destination>
+	
+	<destination>
+		<name>dubai</name>
+		<price>21999</price>
+	</destination>
+	
+	<destination>
+		<name>england</name>
+		<price>19999</price>
+	</destination>
+	
+	<destination>
+		<name>australia</name>
+		<price>36999</price>
+	</destination>
+</trip>
